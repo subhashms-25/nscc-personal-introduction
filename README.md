@@ -33,3 +33,7 @@ NSCC SRM Technical Domain recruitment task.
 - `script.js` - dark/light mode functionality
 - `CI.png` - profile photo
 - `README.md` - project information
+
+## Live Website
+
+https://subhashms-25.github.io/nscc-personal-introduction/
